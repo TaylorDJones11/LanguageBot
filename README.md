@@ -1,5 +1,5 @@
 # Language Translation Bot with Amazon Lex 🤖
-
+- [Blog Post](https://dev.to/onetayjones/aws-lex-building-a-language-translation-bot-4plm)
 
 ## Overview
 This project is a language translation bot built using Amazon Lex. The bot enables users to translate words or sentences into different languages by simply typing the text into the chatbot. It then returns the translated output, making cross-language communication seamless and easy.
