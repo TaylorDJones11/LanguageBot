@@ -23,7 +23,7 @@ This project is a language translation bot built using Amazon Lex. The bot enabl
    Set up an IAM role with permissions for Amazon Lex, Lambda, and Translate to enable secure service access.
 
 5. **Create a Lambda Function**  
-   Develop a Lambda function to process the translation request by interacting with the Amazon Translate API.
+   Develop a Lambda function using Python to process the translation request by interacting with the Amazon Translate API.
 
 6. **Test the Lambda Function**  
    Verify the Lambda function works as expected by running test cases with sample phrases.
